@@ -1,5 +1,9 @@
 # State Guard
 
+## TL;DR
+
+Lightweight endpoint security auditing, configuration drift detection, and guarded remediation for Windows and Linux (Python stdlib only). Goal: know the moment your endpoints drift from a known-good state.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Lightweight Windows and Linux endpoint audits, configuration drift detection,
